@@ -1,0 +1,22 @@
+{
+    "name": "2-colors",
+    "displayName": "2 colors",
+    "description": "Just a simple theme with 2 base colors",
+	"author": "makuke1234",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "2 colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/2 colors-color-theme.json"
+            }
+        ]
+    }
+}
