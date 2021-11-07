@@ -2,14 +2,25 @@
     "name": "2-colors",
     "displayName": "2 colors",
     "description": "Just a simple theme with 2 base colors",
-	"author": "makuke1234",
     "version": "0.0.1",
+	"publisher": "makuke1234",
     "engines": {
         "vscode": "^1.62.0"
     },
     "categories": [
         "Themes"
     ],
+	"keywords": [
+		"theme",
+		"pastel",
+		"80s 2 colors",
+		"pastel",
+		"2 colors theme",
+		"80s vscode",
+		"2 colors",
+		"2-colors",
+		"pastel 2 colors"
+	],
     "contributes": {
         "themes": [
             {
@@ -18,5 +29,11 @@
                 "path": "./themes/2 colors-color-theme.json"
             }
         ]
-    }
+    },
+	"license": "MIT License",
+	"repository": {
+		"type": "git",
+		"directory": "https://github.com/makuke1234/2-colors.git"
+	},
+	"homepage": "https://github.com/makuke1234/2-colors/blob/master/README.md"
 }
