@@ -137,7 +137,7 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
+				//"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
