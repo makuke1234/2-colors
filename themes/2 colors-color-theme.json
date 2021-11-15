@@ -144,7 +144,7 @@
 			],
 			"settings": {
 				"foreground": "#e3aad6",
-				"fontStyle": "underline"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -179,7 +179,7 @@
 			],
 			"settings": {
 				"foreground": "#ffabab",
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
