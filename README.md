@@ -5,7 +5,8 @@ Just a simple dark theme with 2 pastel-like base colors.
 
 # Changelog
 
-
+* v 0.0.6
+	* optimize extension footprint
 * v 0.0.5
 	* fix broken screenshots on extension page
 * v 0.0.4
